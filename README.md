@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# QuoteOfTheDay
+Quote of the Day — A simple, elegant Next.js app that displays daily inspirational quotes with a touch of whimsy, featuring dynamic fonts and smooth styling. Perfect for practicing React, Next.js, and Google Fonts integration.
+>>>>>>> bd5577a37568d24f206c9b1aad29e8c4ba727ca2
