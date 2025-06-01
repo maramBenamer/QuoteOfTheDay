@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 
 :root {
   --background: #ffffff;
@@ -17,6 +18,11 @@
     --background: #0a0a0a;
     --foreground: #ededed;
   }
+}
+.whimsical-text {
+  font-family: 'Dancing Script', cursive;
+  font-size: 2.5rem;
+  color: #cc00cc;
 }
 
 body {
