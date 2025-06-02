@@ -6,6 +6,30 @@
   --foreground: #171717;
 }
 
+.font-geist-sans {
+  font-family: var(--font-geist-sans);
+}
+
+.nav-btn {
+  color: #e6ccf0; /* light lavender/pink */
+   background:#6a007a; /* deep purple */
+  border: 2px solid #b366cc; /* medium purple */
+  border-radius: 8px;
+  padding: 0.5rem 1rem;
+  font-weight: 600;
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.navbar{
+  margin-bottom: 2rem;
+}
+.nav-btn:hover {
+  background: #b366cc; /* medium purple */
+  color: #f3e6ff; /* very light lavender */
+}
+
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
